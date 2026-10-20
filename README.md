@@ -39,7 +39,7 @@ A bill-splitting app for groups, trips and flatmates, on Android and the web.
 
 `React Native` `Expo` `Web app` `PDF export`
 
-<img src="media/ethra-web.webp" width="72%" alt="Ethra landing page" /> <img src="media/ethra-app.webp" width="24%" alt="Ethra Android app" />
+<img src="ethra-web.webp" width="72%" alt="Ethra landing page" /> <img src="ethra-app.webp" width="24%" alt="Ethra Android app" />
 
 **[PrepHub](https://prephub.sreenathp.com/)** · [Code](https://github.com/sreen98/prephub)<br/>
 An interview preparation platform with a study-notebook design: 86 guides, 1,666 interview questions and 162 coding challenges.
@@ -50,7 +50,7 @@ An interview preparation platform with a study-notebook design: 86 guides, 1,666
 
 `React 19` `TypeScript` `Vite` `Tailwind CSS` `PWA`
 
-<img src="media/prephub.webp" width="100%" alt="PrepHub home page" />
+<img src="prephub.webp" width="100%" alt="PrepHub home page" />
 
 **[GeoVault](https://play.google.com/store/apps/details?id=com.geovault.app)** · Android<br/>
 A private location notebook for travellers and foodies.
@@ -61,7 +61,7 @@ A private location notebook for travellers and foodies.
 
 `React Native` `Local-first` `Full-text search` `Google Drive backup`
 
-<img src="media/geovault-app.webp" width="260" alt="GeoVault saved places list" />
+<img src="geovault-app.webp" width="260" alt="GeoVault saved places list" />
 
 **[Signalwise](https://play.google.com/store/apps/details?id=com.signalwise.app)** · Android, in closed testing<br/>
 An honest Wi-Fi analyzer with no ads, no subscription and no tracking.
@@ -74,7 +74,7 @@ An honest Wi-Fi analyzer with no ads, no subscription and no tracking.
 
 `Kotlin` `Jetpack Compose` `Offline` `M-Lab speed test`
 
-<img src="media/signalwise-app.webp" width="260" alt="Signalwise nearby networks list" />
+<img src="signalwise-app.webp" width="260" alt="Signalwise nearby networks list" />
 
 **[AJ Homes](https://www.ajhomeslettings.co.uk/)** · Property agency website, UK<br/>
 Website for a Birmingham property agency covering sales, residential lettings and student lettings.
@@ -85,7 +85,7 @@ Website for a Birmingham property agency covering sales, residential lettings an
 
 `React` `Material UI` `Property search`
 
-<img src="media/ajhomes.webp" width="100%" alt="AJ Homes property search" />
+<img src="ajhomes.webp" width="100%" alt="AJ Homes property search" />
 
 **Taste Magic** · Internal staff tool<br/>
 A multi-tenant PWA that helps an event-management team run a booking from first enquiry to finished event.
@@ -97,14 +97,14 @@ A multi-tenant PWA that helps an event-management team run a booking from first 
 
 `React` `Vite` `Mantine` `TanStack Query` `PWA`
 
-<img src="media/tastemagic.webp" width="100%" alt="Taste Magic workspace sign-in" />
+<img src="tastemagic.webp" width="100%" alt="Taste Magic workspace sign-in" />
 
 **[sreenathp.com](https://sreenathp.com/)** · [Code](https://github.com/sreen98/portfolio)<br/>
 My portfolio, with an interactive hero and an animated photo stack, covering my work, projects and life outside code.
 
 `React` `Three.js` `Framer Motion`
 
-<img src="media/portfolio.png" width="100%" alt="Portfolio home page" />
+<img src="portfolio.png" width="100%" alt="Portfolio home page" />
 
 ### Stack
 
