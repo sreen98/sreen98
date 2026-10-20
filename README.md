@@ -2,6 +2,8 @@
 
 # Hi, I'm Sreenath
 
+<a href="https://sreenathp.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=FF6B35&center=true&vCenter=true&width=560&lines=Frontend+engineer%2C+React+and+TypeScript;5%2B+years+building+B2B+SaaS;Building+Ethra%2C+a+bill-splitting+app;Open+to+work%2C+can+join+immediately" alt="Frontend engineer, React and TypeScript" /></a>
+
 Frontend engineer with 5+ years building React and TypeScript products for B2B SaaS, from AI hiring tools to a Verizon retail platform.<br/>
 I care about clear UI, permission-aware systems and code that is easy to test.
 
@@ -15,6 +17,20 @@ I care about clear UI, permission-aware systems and code that is easy to test.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 </div>
+
+### About me
+
+```ts
+const sreenath = {
+  role: 'Frontend Engineer',
+  basedIn: 'Ernakulam, Kerala',
+  experience: '5+ years, React and TypeScript',
+  worksOn: ['multi-tenant SaaS', 'AI hiring tools', 'Android apps'],
+  shipping: ['Ethra', 'PrepHub', 'GeoVault', 'Signalwise'],
+  offline: ['travel', 'cricket (all-rounder)', 'gym'],
+  status: 'open to work, can join immediately'
+};
+```
 
 ### What I do
 
@@ -30,8 +46,77 @@ I care about clear UI, permission-aware systems and code that is easy to test.
 
 ### Featured work
 
-**[Ethra](https://ethraapp.com/)** · [Web app](https://app.ethraapp.com/) · [Google Play](https://play.google.com/store/apps/details?id=com.ethraapp.ethra)<br/>
-A bill-splitting app for groups, trips and flatmates, on Android and the web.
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="ethra-icon.webp" width="44" align="left" alt="" />
+<b><a href="https://ethraapp.com/">Ethra</a></b><br/>
+<sub>Bill splitting · Android and web</sub>
+<br clear="left"/>
+Split trip and flat bills any way, then settle up in the fewest transfers.
+</td>
+<td width="50%" valign="top">
+<img src="prephub-icon.svg" width="44" align="left" alt="" />
+<b><a href="https://prephub.sreenathp.com/">PrepHub</a></b><br/>
+<sub>Interview preparation · Web</sub>
+<br clear="left"/>
+86 guides, 1,666 questions and 162 graded coding challenges.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="geovault-icon.webp" width="44" align="left" alt="" />
+<b><a href="https://play.google.com/store/apps/details?id=com.geovault.app">GeoVault</a></b><br/>
+<sub>Location notebook · Android</sub>
+<br clear="left"/>
+Save and find your favourite places. Local-first, with no tracking.
+</td>
+<td width="50%" valign="top">
+<img src="signalwise-icon.webp" width="44" align="left" alt="" />
+<b><a href="https://play.google.com/store/apps/details?id=com.signalwise.app">Signalwise</a></b><br/>
+<sub>Wi-Fi analyzer · Android, closed testing</sub>
+<br clear="left"/>
+Find the best channel and dead zones, with no ads or subscription.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="ajhomes-icon.svg" width="44" align="left" alt="" />
+<b><a href="https://www.ajhomeslettings.co.uk/">AJ Homes</a></b><br/>
+<sub>Property agency website · UK</sub>
+<br clear="left"/>
+Property search and listings for a Birmingham lettings agency.
+</td>
+<td width="50%" valign="top">
+<img src="tastemagic-icon.svg" width="44" align="left" alt="" />
+<b>Taste Magic</b><br/>
+<sub>Internal staff tool · Multi-tenant PWA</sub>
+<br clear="left"/>
+Runs an event booking from first enquiry to finished event.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="portfolio-icon.webp" width="44" align="left" alt="" />
+<b><a href="https://sreenathp.com/">sreenathp.com</a></b><br/>
+<sub>Portfolio · Web</sub>
+<br clear="left"/>
+My portfolio, with an interactive particle hero built in Three.js.
+</td>
+<td width="50%" valign="top">
+<b><a href="https://sreenathp.com/#projects">See them all on my portfolio</a></b><br/>
+<sub>Screenshots, stories and links</sub>
+<br/><br/>
+Or open a project below for the details.
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Ethra</b>: bill-splitting app for groups, trips and flatmates</summary>
+<br/>
+
+[Website](https://ethraapp.com/) · [Web app](https://app.ethraapp.com/) · [Google Play](https://play.google.com/store/apps/details?id=com.ethraapp.ethra)
 
 - Every bill from a trip in one group, including bills paid by more than one person.
 - Settle up at the end in the fewest transfers, with a clear breakdown of who owes what and why.
@@ -42,7 +127,14 @@ A bill-splitting app for groups, trips and flatmates, on Android and the web.
 
 <img src="ethra-web.webp" width="72%" alt="Ethra landing page" /> <img src="ethra-app.webp" width="24%" alt="Ethra Android app" />
 
-**[PrepHub](https://prephub.sreenathp.com/)** · [Code](https://github.com/sreen98/prephub)<br/>
+</details>
+
+<details>
+<summary><b>PrepHub</b>: interview preparation platform</summary>
+<br/>
+
+[Live site](https://prephub.sreenathp.com/) · [Code](https://github.com/sreen98/prephub)
+
 An interview preparation platform with a study-notebook design: 86 guides, 1,666 interview questions and 162 coding challenges.
 
 - Guides across frontend, backend, AI engineering, DevOps and system design.
@@ -53,8 +145,13 @@ An interview preparation platform with a study-notebook design: 86 guides, 1,666
 
 <img src="prephub.webp" width="100%" alt="PrepHub home page" />
 
-**[GeoVault](https://play.google.com/store/apps/details?id=com.geovault.app)** · Android<br/>
-A private location notebook for travellers and foodies.
+</details>
+
+<details>
+<summary><b>GeoVault</b>: private location notebook for travellers and foodies</summary>
+<br/>
+
+[Google Play](https://play.google.com/store/apps/details?id=com.geovault.app)
 
 - Save places with notes, tags and nine categories, and group them into collections.
 - Find them again with full-text search or by category, then open them in your maps app.
@@ -64,8 +161,13 @@ A private location notebook for travellers and foodies.
 
 <img src="geovault-app.webp" width="260" alt="GeoVault saved places list" />
 
-**[Signalwise](https://play.google.com/store/apps/details?id=com.signalwise.app)** · Android, in closed testing<br/>
-An honest Wi-Fi analyzer with no ads, no subscription and no tracking.
+</details>
+
+<details>
+<summary><b>Signalwise</b>: honest Wi-Fi analyzer, in closed testing</summary>
+<br/>
+
+[Google Play](https://play.google.com/store/apps/details?id=com.signalwise.app)
 
 - Nearby networks with signal, band, channel and security.
 - Recommends the least crowded channel for your router.
@@ -77,7 +179,14 @@ An honest Wi-Fi analyzer with no ads, no subscription and no tracking.
 
 <img src="signalwise-app.webp" width="260" alt="Signalwise nearby networks list" />
 
-**[AJ Homes](https://www.ajhomeslettings.co.uk/)** · Property agency website, UK<br/>
+</details>
+
+<details>
+<summary><b>AJ Homes</b>: property agency website, UK</summary>
+<br/>
+
+[Website](https://www.ajhomeslettings.co.uk/)
+
 Website for a Birmingham property agency covering sales, residential lettings and student lettings.
 
 - Search by bedrooms, bathrooms and price.
@@ -88,7 +197,12 @@ Website for a Birmingham property agency covering sales, residential lettings an
 
 <img src="ajhomes.webp" width="100%" alt="AJ Homes property search" />
 
-**Taste Magic** · Internal staff tool<br/>
+</details>
+
+<details>
+<summary><b>Taste Magic</b>: internal staff tool for an event business</summary>
+<br/>
+
 A multi-tenant PWA that helps an event-management team run a booking from first enquiry to finished event.
 
 - Capture leads and plan each service: catering, photography, decoration, makeup and return gifts.
@@ -100,12 +214,21 @@ A multi-tenant PWA that helps an event-management team run a booking from first 
 
 <img src="tastemagic.webp" width="100%" alt="Taste Magic workspace sign-in" />
 
-**[sreenathp.com](https://sreenathp.com/)** · [Code](https://github.com/sreen98/portfolio)<br/>
-My portfolio, with an interactive hero and an animated photo stack, covering my work, projects and life outside code.
+</details>
+
+<details>
+<summary><b>sreenathp.com</b>: my portfolio</summary>
+<br/>
+
+[Website](https://sreenathp.com/) · [Code](https://github.com/sreen98/portfolio)
+
+My portfolio, with an interactive particle hero and an animated photo stack, covering my work, projects and life outside code.
 
 `React` `Three.js` `Framer Motion`
 
 <img src="portfolio.png" width="100%" alt="Portfolio home page" />
+
+</details>
 
 ### Stack
 
