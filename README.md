@@ -8,10 +8,11 @@ I care about clear UI, permission-aware systems and code that is easy to test.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?logo=mantine&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 </div>
 
@@ -108,7 +109,17 @@ My portfolio, with an interactive hero and an animated photo stack, covering my 
 
 ### Stack
 
-`TypeScript` `React` `React Native` `Kotlin` `React Router` `Redux Toolkit` `Zustand` `TanStack Query` `Mantine` `Tailwind CSS` `Material UI` `Vite` `Jest` `Vitest` `React Testing Library` `Storybook` `GitHub Actions` `Node.js`
+| Area | Skills |
+| --- | --- |
+| Languages | `JavaScript (ES6+)` `TypeScript` `HTML5` `CSS3` |
+| Frontend | `React` `React Hooks` `React Router` `Redux Toolkit` `Redux Saga` `Zustand` `TanStack Query` |
+| Mobile | `React Native` `Expo` `PWA` |
+| Styling and UI | `Tailwind CSS` `Mantine` `Material UI` `Framer Motion` `Three.js` `Responsive design` |
+| Testing and performance | `Jest` `Vitest` `React Testing Library` `Lighthouse` `Core Web Vitals` |
+| Build and CI/CD | `Vite` `Webpack` `Storybook` `GitHub Actions` |
+| APIs and integrations | `REST` `WebSockets` `Stripe` `Greenhouse` `Lever` |
+| Backend | `Node.js` `Express.js` `MongoDB` `AWS Lambda` |
+| Tools | `Git` `GitHub` `GitLab` `Jira` `Postman` `Kibana` `GitHub Copilot` `Claude Code` `Agile / Scrum` |
 
 ### Get in touch
 
